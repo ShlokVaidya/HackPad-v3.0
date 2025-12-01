@@ -9,6 +9,16 @@
 ### 3D
 ![3d](/Images/Screenshot%202025-12-01%20232823.png)
 
+### 3D case
+![](/Images/image.png)
+
+### Final Product
+![](/Images/Screenshot%202025-12-02%20023718.png)
+
+### bom.csv
+![](/PCB/production/bom.csv)
+![](/Images/bom.png)
+
 ## Features
 
 - Uses Seeed XIAO RP2040, a small form factor board based on the Raspberry Pi RP2040 microcontroller.
