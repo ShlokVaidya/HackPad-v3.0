@@ -18,6 +18,7 @@
 ### bom.csv
 ![](/PCB/production/bom.csv)
 ![](/Images/bom.png)
+![bom](/bom.sv)
 
 ## Features
 
